@@ -1,8 +1,0 @@
-{
-  "appId": "com.talasheno.app",
-  "appName": "تلاش نو",
-  "webDir": "www",
-  "android": {
-    "backgroundColor": "#e4d9ff"
-  }
-}
