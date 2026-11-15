@@ -1,10 +1,6 @@
 {
-  "name": "talasheno",
-  "version": "1.2.0",
-  "private": true,
-  "dependencies": {
-    "@capacitor/android": "^7.0.0",
-    "@capacitor/cli": "^7.0.0",
-    "@capacitor/core": "^7.0.0"
-  }
+  "appId": "com.talasheno.app",
+  "appName": "Talasheno",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
